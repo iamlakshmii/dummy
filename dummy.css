@@ -1,0 +1,9 @@
+.h2{
+    font-size:20px;
+    font-style: italic;
+}
+.p{
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
